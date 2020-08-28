@@ -29,8 +29,6 @@ public class TotoLanguageTest extends TotoBaseTest {
 		language.clickOnArmBtn();
 		Thread.sleep(5000);
 		
-		
-
 		System.out.println("Expected results:");
 		System.out.println("After step 2.Armenian page is presented");
 		
